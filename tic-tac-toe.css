@@ -1,0 +1,12 @@
+body{
+    background-image: url(chalkboard-background-wallpaper-2560x1080_14.jpg);
+    padding: 0px;
+    margin: 0px;
+}
+#number{
+    border: 2px solid white;
+    border-radius: 20px;
+}
+.row{
+    text-align: center;
+}
