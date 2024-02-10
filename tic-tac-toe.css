@@ -10,3 +10,6 @@ body{
 .row{
     text-align: center;
 }
+.hover:hover{
+    background-color: red;
+}
